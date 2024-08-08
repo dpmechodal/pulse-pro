@@ -890,6 +890,12 @@ ul.navbar-nav{
         justify-content: space-between;
         width: 100%;
     }
+    .supplier-scrollbar{
+        height: 36vh;
+        flex-wrap: nowrap;
+        overflow-y: scroll;
+        scrollbar-width: none;
+    }
 }
 
 /* 525 */
